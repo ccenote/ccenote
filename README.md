@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="/images/2b1281caade2476d99f13878fc24e111.png">
 
 <!--
 **ccenote/ccenote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
