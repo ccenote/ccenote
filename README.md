@@ -3,12 +3,12 @@
 <div>
 <br>
 <div style="text-align:center">
-<a href="https://blog.csdn.net/qq_42723113"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-<a href="https://www.zhihu.com/people/chinaclown"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-<a href="https://gitee.com/ChinaClowns"><img src="https://img.shields.io/badge/Gitee-码云-red" /></a>&emsp;
-<a href="https://juejin.cn/user/3544481220266349"><img src="https://img.shields.io/badge/Juejin-掘金-blue" /></a>&emsp;
-<a href="https://www.cnblogs.com/ccenote/"><img src="https://img.shields.io/badge/CnBlog-博客园-green" /></a>&emsp;
-<a href="https://blog.ccenote.com/"><img src="https://img.shields.io/badge/CCNOTE-博客-blue" /></a>
+<a href="https://blog.csdn.net/qq_42723113" target="_blank"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+<a href="https://www.zhihu.com/people/chinaclown" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+<a href="https://gitee.com/ChinaClowns" target="_blank"><img src="https://img.shields.io/badge/Gitee-码云-red" /></a>&emsp;
+<a href="https://juejin.cn/user/3544481220266349" target="_blank"><img src="https://img.shields.io/badge/Juejin-掘金-blue" /></a>&emsp;
+<a href="https://www.cnblogs.com/ccenote/" target="_blank"><img src="https://img.shields.io/badge/CnBlog-博客园-green" /></a>&emsp;
+<a href="https://blog.ccenote.com/" target="_blank"><img src="https://img.shields.io/badge/CCNOTE-博客-blue" /></a>
 </div>
 <br>
 <div style="border:2px solid #2A70E8;background-color:#2A70E8;border-radius:2px;"></div>
